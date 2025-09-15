@@ -7,7 +7,6 @@ Welcome to my virtual workspace, where each `commit` tells a story, every `push`
 
 🔎 **Curiosity is my `sudo` superpower.** Whether it’s building cloud-native applications, securing infrastructure, or optimizing Go Lang applications, I’m constantly exploring new directories of knowledge.
 
----
 
 ##  `whoami`
 
@@ -25,18 +24,6 @@ Welcome to my virtual workspace, where each `commit` tells a story, every `push`
 - 💡 **Open Source & Learning** – Contributing to community projects while exploring new tech and tools.
 
 ---
-
-## 🤝 **Let’s Connect and Collaborate!**
-
-```bash
-$ curl -X POST --data '{"msg": "Let’s build and innovate together!"}' https://github.com/contact-me
-```
-
-Whether you're a Linux enthusiast, a cloud architect, a Go Lang explorer, or a cybersecurity professional — let’s collaborate, share knowledge, and build innovative solutions together.
-
-📧 **Email:** premsaimaddula342@gmail.com  
-🔗 **LinkedIn:** [Raja Prem Sai Maddula](https://www.linkedin.com/in/rajapremsai/)  
-🐦 **Twitter:** [PremX](https://x.com/PremSai_mr1cool)
 
 > "In a world of infinite loops, be the `break;`." 🐧
 
